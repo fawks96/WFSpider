@@ -31,4 +31,4 @@ A spider for Wanfang database
   
   ![Demo3](https://raw.githubusercontent.com/fawks96/WFSpider/master/Demo%20pictures/Demo3.png)
   
-  此项目为：
+  此项目为：[FlaskyWF](https://github.com/fawks96/FlaskyWF)
